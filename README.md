@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @olivia-barr-it
 - 👀 I’m interested in ... GenAI, virtualization, VMWare, & project management 
 - 🌱 I’m currently learning ... VMWare & AWS Cloud Practicioner 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... LinkedIn: www.linkedin.com/in/olivia-m-barr
 
 
